@@ -1,2 +1,2 @@
-# webtorm-setting
+# webstorm-setting
 webstorm style.
